@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.e("MainActivity", "这是主干代码");
+        Log.e("MainActivity", "这是dev代码");
     }
 }
