@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("MainActivity", "这是debug代码");
+        Log.e("MainActivity", "这是测试从dev合并到debug的代码");
     }
 }
